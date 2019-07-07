@@ -1,5 +1,6 @@
 #author Jerry McClurg
-#Version 1 3/11/2017
+#Version 2 7/6/2019
+#Optional interface file added
 
 import urllib.request
 import os
